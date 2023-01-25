@@ -44,7 +44,7 @@
 
 // typeof - o'zgaruvchini malumotini chiqazib beradi
 // 'yozilishi' console.log(typeof 1); 
-// console.log(9007199254740992n + 1n);
+// console.log(9007199254740992 n + 1n);
 
 // bigtic 
 // stringlar = '' "" ``
